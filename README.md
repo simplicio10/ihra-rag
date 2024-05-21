@@ -1,0 +1,1 @@
+Uses the LlamaIndex API to create an augmented LLM that incorporates the Illinois Human Rights Act. With the augmented LLM, the user can use Chat GPT to obtain more accurate and informative answers to queries about the Act.
